@@ -1,7 +1,7 @@
 import { Cliente } from './cliente';
 
 export const CLIENTES: Cliente[] = [
-  { id: 1, nombre: 'Erick', apellido: 'González', email: 'hola@mail.com', createAt: '2020-04-02' },
+  { id: 1, nombre: 'Erick', apellido: 'González', email: 'correo@gmail.com', createAt: '2020-04-02' },
   { id: 2, nombre: 'Andres', apellido: 'Escalera', email: 'hola1@mail.com', createAt: '2020-04-01' },
   { id: 3, nombre: 'Juan', apellido: 'Puerta', email: 'hola2@mail.com', createAt: '2020-04-03' },
   { id: 4, nombre: 'Laura', apellido: 'Aguilar', email: 'hola3@mail.com', createAt: '2020-04-04' },
