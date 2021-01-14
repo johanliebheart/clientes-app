@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\app",
-    "\\src\\app\\clientes"
+    ""
   ],
-  "SelectedNode": "\\src\\app\\clientes\\clientes.json.ts",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
